@@ -1,11 +1,11 @@
 import axios from "axios";
 import Twit from "twit";
 
-const twitterConsumerKey = "Consumer Key";
-const twitterConsumerSecret = "Consumer Secret Key";
-const twitterAccessToken = "Acess Token";
-const twitterAccessTokenSecret = "Access Token Secret";
-const openaiApiKey = "Open AI API key";
+const twitterConsumerKey = "hSLQ5LMoTGl3BcMFSEZcwuv2R";
+const twitterConsumerSecret = "HnmBqIlbuV37Aegkhv0Cy9OtyN02ZgJeQB4yREOq7lHT3Y1l3A";
+const twitterAccessToken = "1686798377336401926-JoalIfzx9RSPp9wXzgyrOzL1M6DlXI";
+const twitterAccessTokenSecret = "cAdtqx7Y9MADGwwJuhktPdH3Tfam4uQP6AanOa8B1KpjY";
+const openaiApiKey = "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";
 
 function getKeyword() {
   // select random keywords
